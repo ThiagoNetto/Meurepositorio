@@ -1,4 +1,4 @@
 #landig  page  para barbearia 
-## responsivo 
+## Responsivo
 ### site contem  home produtos contato
 #### mapa de localização 
